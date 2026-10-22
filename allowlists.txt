@@ -4,6 +4,12 @@
 
 ! --- 1. CỔNG DỊCH VỤ CÔNG & CHÍNH PHỦ ---
 @@||dichvucong.gov.vn^
+@@||dichvucong.bocongan.gov.vn^
+@@||vpcp.dichvucong.gov.vn^
+@@||dichvucong.gdt.gov.vn^
+@@||dichvucong.baohiemxahoi.gov.vn^
+@@||sso.mof.gov.vn^
+@@||sso.dancuquocgia.gov.vn^
 @@||baohiemxahoi.gov.vn^
 @@||thuedientu.gdt.gov.vn^
 @@||canhan.gdt.gov.vn^
